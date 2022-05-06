@@ -1,1 +1,31 @@
-body{linear-gradient:top red, bottom black}
+main{
+
+
+
+}
+
+
+
+body{
+
+    font-family: "Segoe UI", Arial;
+    background-image: -webkit-linear-gradient( left, rgba(0, 0, 255, 0.164), white);
+   
+
+}
+
+.short{
+
+    
+    
+    justify-content: left;
+    border: 2px solid rgba(11, 10, 10, 0.701);
+    border-radius:5px;
+    box-shadow: 5px, 5px, 3px, red;
+
+
+}
+
+h2{
+    font-size: 12;
+}
