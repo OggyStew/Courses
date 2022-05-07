@@ -1,31 +1,33 @@
-main{
 
 
-
+h1{
+    text-align:center;
+    font-size:5em;
+    text-shadow:3px 3px 3px gray;
+}
+h2{
+    text-align:center;
+    margin: 50px 50px 50px 50px;
+    font-size: 12;
 }
 
-
-
 body{
-
-    font-family: "Segoe UI", Arial;
+    
+    font-family: "Kanit", Arial;
     background-image: -webkit-linear-gradient( left, rgba(0, 0, 255, 0.164), white);
    
 
 }
 
 .short{
+    text-align:left;
 
+    width:40%;
+    background-image: -webkit-linear-gradient(rgba(0, 0, 255, 0.164), white);
     
-    
-    justify-content: left;
-    border: 2px solid rgba(11, 10, 10, 0.701);
-    border-radius:5px;
-    box-shadow: 5px, 5px, 3px, red;
+    border: 3px solid rgba(11, 10, 10, 0.701);
+    border-radius:8px;
+    box-shadow: 5px 5px 5px;
 
 
-}
-
-h2{
-    font-size: 12;
 }
